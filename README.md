@@ -14,3 +14,5 @@ Fit the polynomial regression model
 Visualize both models using ggplot2
 
 Predict values using both models
+![Image](https://github.com/user-attachments/assets/f90e6cfb-fe4b-4a8c-9c69-604b5c668ad4)
+![Image](https://github.com/user-attachments/assets/a89da95e-4984-4f13-b90c-9624fd2b288a)
