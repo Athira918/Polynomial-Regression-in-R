@@ -14,5 +14,11 @@ Fit the polynomial regression model
 Visualize both models using ggplot2
 
 Predict values using both models
+
+when the results 
+For an hypothetical Level of 6.5, this model predicts a Salary of approximately $158,862.5 on the salary data
+Linear Model Prediction: 65.28215 (likely minutes, given the context of trip duration)
+Polynomial Model Prediction: 10.09018 (likely minutes)
+in taxi data
 ![Image](https://github.com/user-attachments/assets/f90e6cfb-fe4b-4a8c-9c69-604b5c668ad4)
 ![Image](https://github.com/user-attachments/assets/a89da95e-4984-4f13-b90c-9624fd2b288a)
